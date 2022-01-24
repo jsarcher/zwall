@@ -52,6 +52,6 @@ Viewblock: [https://viewblock.io/zilliqa/address/zil1rrnp26y7948tq26hpqncj8yvtnk
 
   10. Confirm the transition in your wallet.
 
-  11. Once the transaction has been confirmed, you should see your PNG on the [Zilwall](zilwall.com)
+  11. Once the transaction has been confirmed, you should see your PNG on the [Zilwall](https://zilwall.com)
 
 
