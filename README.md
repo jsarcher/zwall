@@ -25,33 +25,33 @@ Viewblock: [https://viewblock.io/zilliqa/address/zil1rrnp26y7948tq26hpqncj8yvtnk
 
 ## How to?
 
-1. Specify image file and x/y coordinates in the put\_pixel python call:
+  1. Specify image file and x/y coordinates in the put\_pixel python call:
 
     pixstr = put_pixels("XCAD.png", 10, 80)
 
-2. Call the python script:
+  2. Call the python script:
 
     cd src/
     python3 ./zilwall.py
 
-3. Open the [Zilliqa IDE](https://ide.zilliqa.com)
+  3. Open the [Zilliqa IDE](https://ide.zilliqa.com)
 
-4. In the bottom left you can import a contract. The contract must be added in the base16 address format.
+  4. In the bottom left you can import a contract. The contract must be added in the base16 address format.
 
     0x18e615689e2d4eb02b570827891c8c5cedc0322c
 
-5. Click on the newly imported contract and the ABI (Application Blockchain Interface) will be loaded.
+  5. Click on the newly imported contract and the ABI (Application Blockchain Interface) will be loaded.
 
-6. Click on the PutPixels Transition.
+  6. Click on the PutPixels Transition.
 
-7. Increase Gas Limit 25000 to 50000.
+  7. Increase Gas Limit 25000 to 50000.
 
-8. Copy the output of step (2.) in the pixels parameter field.
+  8. Copy the output of step (2.) in the pixels parameter field.
 
-9. Click "Call transition" button in the IDE.
+  9. Click "Call transition" button in the IDE.
 
-10. Confirm the transition in your wallet.
+  10. Confirm the transition in your wallet.
 
-11. Once the transaction has been confirmed, you should see your PNG on the [Zilwall](zilwall.com)
+  11. Once the transaction has been confirmed, you should see your PNG on the [Zilwall](zilwall.com)
 
 
