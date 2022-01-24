@@ -1,5 +1,5 @@
 
-#PNG to ZWALL converter
+# PNG to ZWALL converter
 
 ## What is it?
 
@@ -23,7 +23,7 @@ Contract Address (base16):
 Viewblock: [https://viewblock.io/zilliqa/address/zil1rrnp26y7948tq26hpqncj8yvtnkuqv3vvt00au](https://viewblock.io/zilliqa/address/zil1rrnp26y7948tq26hpqncj8yvtnkuqv3vvt00au)
 
 
-## How to interact with the blockchain?
+## How to?
 
 1. Specify image file and x/y coordinates in the put\_pixel python call:
 
